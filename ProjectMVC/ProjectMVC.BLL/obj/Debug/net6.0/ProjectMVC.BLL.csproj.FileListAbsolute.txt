@@ -1,0 +1,17 @@
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.BLL.deps.json
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.BLL.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.BLL.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.CORE.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.REPO.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.REPO.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\bin\Debug\net6.0\ProjectMVC.CORE.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.AssemblyInfo.cs
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.csproj.CopyComplete
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\refint\ProjectMVC.BLL.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ProjectMVC.BLL.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.BLL\obj\Debug\net6.0\ref\ProjectMVC.BLL.dll

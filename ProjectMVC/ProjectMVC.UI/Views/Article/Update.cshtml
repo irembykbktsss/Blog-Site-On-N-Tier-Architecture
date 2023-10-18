@@ -1,0 +1,56 @@
+﻿@model ProjectMVC.UI.Models.VMs.ArticleVMs.ArticleUpdateVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+
+
+<h4>Makale Düzenle</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Update">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AppUserId" />
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group" >
+                <label asp-for="Detail" class="control-label"></label>
+                <textarea asp-for="Detail" class="form-control" style="height:500px"></textarea>
+                <span asp-validation-for="Detail" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="AvgReadTime"/>
+           @* <div class="form-group">
+                <label asp-for="AvgReadTime" class="control-label"></label>
+                <input asp-for="AvgReadTime" class="form-control" />
+                <span asp-validation-for="AvgReadTime" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <label asp-for="SubjectId" class="control-label">Kategori</label>
+                <select asp-for="SubjectId" class="form-control" asp-items="@(new SelectList(Model.Subjects, "Id", "SubjectName"))">
+                    <option>Konu Seçiniz..</option>
+                </select>
+                <span asp-validation-for="SubjectId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <span class="text-danger">@ViewBag.Error</span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

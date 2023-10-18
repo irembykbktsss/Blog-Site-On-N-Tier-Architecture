@@ -1,0 +1,17 @@
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\bin\Debug\net6.0\ProjectMVC.REPO.deps.json
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\bin\Debug\net6.0\ProjectMVC.REPO.runtimeconfig.json
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\bin\Debug\net6.0\ProjectMVC.REPO.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\bin\Debug\net6.0\ProjectMVC.REPO.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\bin\Debug\net6.0\ProjectMVC.CORE.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\bin\Debug\net6.0\ProjectMVC.CORE.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.AssemblyInfo.cs
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.csproj.CopyComplete
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\refint\ProjectMVC.REPO.dll
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.pdb
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ProjectMVC.REPO.genruntimeconfig.cache
+C:\Users\Monster\Desktop\ProjectMVC\ProjectMVC.REPO\obj\Debug\net6.0\ref\ProjectMVC.REPO.dll

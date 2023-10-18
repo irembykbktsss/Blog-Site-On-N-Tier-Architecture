@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ProjectMVC.UI.Models.VMs.SubjectVMs.SubjectListVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Konu Listesi</h1>
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>
+        <a class="btn btn-success" asp-action="Create">YENİ EKLE</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubjectName)              
+
+            </th>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <th>
+                    İşlemler
+                </th>
+            }
+         
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    <a asp-controller="Article" asp-action="ArticleBySubjectList" asp-route-subjectId="@item.Id">@Html.DisplayFor(modelItem => item.SubjectName)</a>
+
+                </td>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <td>
+                        @Html.ActionLink("GÜNCELLE", "Update", new { id=item.Id}, new{ @class = "btn btn-warning"})
+                        @Html.ActionLink("SİL", "Delete", new { id=item.Id} , new{ @class = "btn btn-danger"})
+                    </td>
+                }
+               
+            </tr>
+        }
+    </tbody>
+</table>
